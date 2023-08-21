@@ -2,3 +2,7 @@ a {
     border-color: blueviolet;
     margin: 30px 0;
 }
+
+body {
+    border-color: aqua;
+}
